@@ -1,9 +1,10 @@
+
 public class Main {
 
         public static void main(String[] args) {
             // TODO Auto-generated method stub
-            Airports aero1 = new Airports("DSU","NOT", "FR", 265,340);
-            Airports aero2 = new Airports("DSA","OUT", "ESPN", 255,300);
+            Airports aero1 = new Airports("DSU","IOTA", "FR",265, 340);
+            Airports aero2 = new Airports("DSA","NUA", "ESPN",255, 300);
 
 
 

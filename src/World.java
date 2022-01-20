@@ -67,5 +67,5 @@ public class World {
         return norme;
     }
 
-    //public double distance (double lat1, double lat2, double long1, double long2) {
+
     }
